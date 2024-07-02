@@ -23,3 +23,4 @@ C:\Users\gjlop\Documents\GitHub\PracticasASP\api1\WebApplication1\obj\Debug\net8
 C:\Users\gjlop\Documents\GitHub\PracticasASP\api1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\gjlop\Documents\GitHub\PracticasASP\api1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\gjlop\Documents\GitHub\PracticasASP\api1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\gjlop\Documents\GitHub\PracticasASP\api1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
