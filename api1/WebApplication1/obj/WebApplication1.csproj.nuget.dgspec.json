@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\webApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\webApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\webApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\webApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\gjlop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\webApplication1\\obj\\",
+        "outputPath": "C:\\Users\\gjlop\\Documents\\GitHub\\PracticasASP\\api1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gjlop\\AppData\\Roaming\\NuGet\\NuGet.Config"
